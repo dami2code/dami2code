@@ -1,7 +1,8 @@
 
-<h1>Hi 👋, I'm Damian</h1>
+# Hi there 👋, I'm Damian!
 
-<p>I Started Learning Front-End Development on 10/10/2024. I'm posting here my private projects made for practice and fun.</p>
+## 🚀 About Me
+**Future Front-End Developer**
 
 ## 🛠 Skills
-- **Front-End:** `HTML`, `CSS(in progress)`, `JavaScript(in progress)`.
+- **Front-End:** `HTML`, `CSS`, `JavaScript` in progress.
