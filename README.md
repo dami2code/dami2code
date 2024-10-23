@@ -2,7 +2,7 @@
 # Hi there 👋, I'm Damian!
 
 ## 🚀 About Me
-**I like to **
+- **Future Front-End Developer**
 
 ## 🛠 Skills
 - **Currently learning `Front-End Development`.**
