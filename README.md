@@ -10,7 +10,7 @@
 - **English**
 
 ## 🛠 Skills
-- **Currently learning `Front-End Development`.**
+- **Currently learning `Front-End Development`**
 
 ## 💻 Coding Hardware
 - **Samsung Galaxy A51**
