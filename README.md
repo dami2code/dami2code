@@ -2,7 +2,7 @@
 # Hi there 👋, I'm Damian!
 
 ## 🚀 About Me
-**Started learning Front-End Development on 10/10/2024 => Future Front-End Developer**
+**I like to **
 
 ## 🛠 Skills
-- **Front-End:** `HTML`, `CSS`, `JavaScript` in progress.
+- **Currently learning `Front-End Development`.**
