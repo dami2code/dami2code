@@ -10,6 +10,6 @@
 ## 🛠 Skills
 - **Currently learning `Front-End Development`.**
 
-## 💻 Hardware
+## 💻 Coding Hardware
 - **Samsung Galaxy A51**
 - **Acer Aspire V5-121 (2011)**
