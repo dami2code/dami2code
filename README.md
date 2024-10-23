@@ -3,9 +3,9 @@
 
 ## 🚀 About Me
 - **Future Front-End Developer**
-- **I like to travel around the world**
-- **Interested in :
-`
+- **Interested in : `SpaceX` , `Travelling` , `Tech` , `Future`**
+
+
 
 ## 🛠 Skills
 - **Currently learning `Front-End Development`.**
