@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 - **Future Front-End Developer**
-- **Interested in : `SpaceX` , `Travelling` , `Tech` , `Future`**
+- **I'm interested in : `SpaceX` , `Travelling` , `Tech` , `Future`**
 
 ## 🌎 Languages
 - **Polish (native)**
