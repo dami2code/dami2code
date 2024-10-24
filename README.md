@@ -14,4 +14,4 @@
 
 ## 💻 Coding Hardware
 - **Samsung Galaxy A51**
-- **Acer Aspire V5-121 (2011)**
+- **Acer Aspire V5-121**
