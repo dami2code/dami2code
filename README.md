@@ -5,10 +5,6 @@
 - **Future Front-End Developer**
 - **I'm interested in : `SpaceX` , `Travelling` , `Tech` , `Future`**
 
-## 🌎 Languages
-- **Polish (native)**
-- **English**
-
 ## 🛠 Skills
 - **Currently learning `Front-End Development`**
 
